@@ -102,7 +102,7 @@ public class EditorActivity extends AppCompatActivity {
                     }
                 }
             }
-
+//Basic
             // Because AdapterView is an abstract class, onNothingSelected must be defined
             @Override
             public void onNothingSelected(AdapterView<?> parent) {
